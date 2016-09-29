@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAutho</string>
+    <string name="welcome_msg">Welcome to Learning @ AndroidBash </string>
+    <string name="sign_out">Sign Out</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="loading">Loading</string>
+    <string name="post">Post Joke</string>
+</resources>
